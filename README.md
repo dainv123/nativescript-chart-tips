@@ -9,7 +9,8 @@
   <DonutSeries ... valueProperty="usage"></DonutSeries>
 </RadPieChart>
 ```
-  - It only draws and shows when there are **2 or more elements**
+### It only draws and shows when: 
+  - **2 or more elements**
   ex:
     ```js
     [

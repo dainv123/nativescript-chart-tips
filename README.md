@@ -11,7 +11,7 @@
 ```
 ### It only draws and shows when: 
   - **2 or more elements**
-  ex:
+  ex: :no_entry:
     ```js
     [
       {
@@ -21,7 +21,7 @@
     ]
     ```
   - At least 2 elements are valid (not: null, 0, empty ... )
-  ex:
+  ex: :no_entry:
     ```js
     [
       {
@@ -35,7 +35,7 @@
     ]
     ```
   - The percentage between the biggest element and the smallest element must greater than the accepted point (~0.0001, ~ 0.01%)
-  ex: `biggest/smallest = 1/1000000 (< 0.0001)`
+  ex: `biggest/smallest = 1/1000000 (< 0.0001)` :no_entry:
     ```js
     [
       {

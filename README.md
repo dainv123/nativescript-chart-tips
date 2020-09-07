@@ -87,4 +87,4 @@ data = [
 
 
 ## Bar Chart
-....
+.... :pencil2: :pencil2: :pencil2:
